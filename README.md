@@ -1,6 +1,6 @@
 # 👋 Wassup!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alright+let's+do+this+one+last+time;My+name+is+Ayobami+Masterpiece&font=poppins&width=700&height=60&color=#58A6FF&size=24&duration=4000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alright+let's+do+this+one+last+time;My+name+is+Ayobami+Masterpiece;My+name+is+Ayobami+Masterpiece&font=poppins&width=700&height=60&color=#FF4D4D&size=24&duration=4000)](https://git.io/typing-svg)
 
 # My Toys
 
@@ -41,7 +41,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CookingApps&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-### 🐍 My GitHub Contribution Snake
+### 🐍 Relax! It does not bite.
 
 <div align="center">
   <picture>

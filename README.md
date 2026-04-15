@@ -1,6 +1,44 @@
+
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CookingApps.CookingApps" /> -->
+
 # 👋 Wassup!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alright+let's+do+this+one+last+time;My+name+is+Ayobami+Masterpiece;My+name+is+Ayobami+Masterpiece&font=poppins&width=700&height=60&color=FF4D4D&size=24&duration=4000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alright+let's+do+this+one+last+time;My+name+is+Ayobami+Masterpiece;and+I+cooookkk+for+a+living🔥&font=poppins&width=700&height=60&color=FF4D4D&size=24&duration=4000)](https://git.io/typing-svg)
+
+
+## A Chef
+
+<p>I love building software products that solve real problems and impact lives. Yeah, that’s basically it. It’s kind of cool, innit? That superpower of turning boring lines of jargon into something real — watching it come to life… and sometimes watching it break too lol. But yeah, you keep bringing it back to life.</p>
+
+<p>I have 5 years of experience doing this — building mobile apps, websites, APIs… pretty much anything that runs on code.</p>
+
+<p>I high-key love drones and robots, so yeah, I’m diving into that space too.</p>
+
+<p>I’m currently co-founding a startup called Kampos — a social media platform for Nigerian students in tertiary institutions</p>
+
+<p>I love puppies and babies… well, I think we all do.</p>
+
+
+
+## 📫 Pull up on me
+
+<p align="center">
+  <a href="mailto:ayotibami14@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
+   <a href="https://wa.me/+2347011173711">
+    <img src="https://skillicons.dev/icons?i=whatsapp&theme=light" />
+  </a>
+ 
+</p>
+
+
+<p align="center">
+Hit me up if you're building something crazy, hiring, or just want to vibe about tech
+</p>
+
+
+
 
 # My Toys
 

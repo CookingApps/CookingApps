@@ -1,7 +1,42 @@
-### 🔥 GitHub Stats
+# 👋 Wassup!
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CookingApps&layout=compact&theme=radical&hide=html,css&langs_count=8)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alright+let's+do+this+one+last+time;My+name+is+Ayobami+Masterpiece&font=poppins&width=700&height=60&color=#58A6FF&size=24&duration=4000)](https://git.io/typing-svg)
 
-[![Ayobami's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=CookingApps&theme=radical&show_icons=true&hide=contribs,prs)](https://github.com/pranesh-2005/github-readme-stats-fast)
+# My Toys
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CookingApps&theme=radical&hide_border=true)](https://git.io/streak-stats)
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,js,ts,python,kotlin,c,java,cpp" />
+</p>
+
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,bootstrap" />
+</p>
+
+### Backend and database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,sqlite,postgres,fastapi,django" />
+</p>
+
+### Tools and devops
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,docker,figma,github,aws,firebase,redis,git,linux" />
+</p>
+
+
+## Vibe check
+
+###  Top Languages
+
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CookingApps&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+###  My Stats
+[![Ayobami's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=CookingApps&theme=tokyonight&show_icons=true&hide=contribs,prs)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+###  Streaksss
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CookingApps&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+

@@ -1,0 +1,34 @@
+name: Daily Heartbeat
+
+on:
+  schedule:
+    - cron: "0 23 * * *"     # Runs every day at 11:00 PM UTC (good for Nigeria time)
+  workflow_dispatch:         # Allows you to run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update heartbeat file
+        run: |
+          echo "Daily heartbeat - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> .heartbeat.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .heartbeat.md
+            git commit -m "chore: daily heartbeat $(date -u +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit."
+          fi

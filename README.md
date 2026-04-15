@@ -1,6 +1,6 @@
 # 👋 Wassup!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alright+let's+do+this+one+last+time;My+name+is+Ayobami+Masterpiece;My+name+is+Ayobami+Masterpiece&font=poppins&width=700&height=60&color=#FF4D4D&size=24&duration=4000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alright+let's+do+this+one+last+time;My+name+is+Ayobami+Masterpiece;My+name+is+Ayobami+Masterpiece&font=poppins&width=700&height=60&color=FF4D4D&size=24&duration=4000)](https://git.io/typing-svg)
 
 # My Toys
 
@@ -31,17 +31,17 @@
 
 ###  Top Languages
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CookingApps&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CookingApps&layout=compact&theme=shadow_red&langs_count=10)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ###  My Stats
-[![Ayobami's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=CookingApps&theme=tokyonight&show_icons=true&hide=contribs,prs)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Ayobami's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=CookingApps&theme=shadow_red&show_icons=true&hide=contribs,prs)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ###  Streaksss
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CookingApps&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CookingApps&&theme=shadow_red&hide_border=true)](https://git.io/streak-stats)
 
 
-### 🐍 Relax! It does not bite.
+###  Relax! It does not bite.
 
 <div align="center">
   <picture>

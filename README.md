@@ -40,3 +40,14 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CookingApps&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+
+### 🐍 My GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CookingApps/CookingApps/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CookingApps/CookingApps/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/CookingApps/CookingApps/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+  </picture>
+</div>
+

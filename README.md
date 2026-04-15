@@ -1,6 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CookingApps)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CookingApps)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CookingApps&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CookingApps&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 <h1>👋 Hi, I am Ayobami Masterpiece</h1>
 <!-- <h2>💻 I love creating software (maybe because it is soft, not hard like hardware)</h2> -->

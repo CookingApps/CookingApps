@@ -39,8 +39,12 @@ Hit me up if you're building something crazy, hiring, or just want to vibe about
 
 <div>
   <h1>Currently Cooking</h1>
+  
 <h2>Kampos</h2>  
-
+<p align="center">
+  <img src="./assets/images/loginpage.png" width="45%" />
+  <img src="./assets/images/.png" width="45%" />
+</p>
 <h2>Chopie</h2>
 </div>
 

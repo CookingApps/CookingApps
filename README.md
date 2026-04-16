@@ -6,11 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alright+let's+do+this+one+last+time;My+name+is+Ayobami+Masterpiece;and+I+cooookkk+for+a+living🔥&font=poppins&width=700&height=60&color=FF4D4D&size=24&duration=4000)](https://git.io/typing-svg)
 
 
-## A Chef
+## Meet the Chef
 
-<p>I love building software products that solve real problems and impact lives. Yeah, that’s basically it. It’s kind of cool, innit? That superpower of turning boring lines of jargon into something real — watching it come to life… and sometimes watching it break too lol. But yeah, you keep bringing it back to life.</p>
+<p>I build scalable systems and real-world products that solve problems and impact lives. Yeah, that’s basically it. It’s kind of cool, innit? That superpower of turning boring lines of jargon into something real — watching it come to life… and sometimes watching it break too lol. But yeah, you keep bringing it back to life.</p>
 
-<p>I have 5 years of experience doing this — building mobile apps, websites, APIs… pretty much anything that runs on code.</p>
+<p>>I have 5 years of experience doing this — building mobile apps, websites, APIs… pretty much anything that runs on code. </p>
 
 <p>I high-key love drones and robots, so yeah, I’m diving into that space too.</p>
 
@@ -37,10 +37,15 @@
 Hit me up if you're building something crazy, hiring, or just want to vibe about tech
 </p>
 
+<div>
+  <h1>Currently Cooking</h1>
+<h2>Kampos</h2>  
+
+<h2>Chopie</h2>
+</div>
 
 
-
-# My Toys
+# My Tools
 
 ### Languages
 

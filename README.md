@@ -69,6 +69,7 @@ Hit me up if you're building something crazy, hiring, or just want to vibe about
 <h2>Chopie</h2>
 <p>A scalable food delivery platform backend built with Go, currently under active development. 
 This project aims to replicate core features of popular food delivery services like Chowdeck, focusing on high performance, reliability, and clean code practices.</p>
+
 <ul>
    <li>
     Complete REST API with Gin framework following Clean Architecture principles
@@ -80,7 +81,7 @@ This project aims to replicate core features of popular food delivery services l
 <li> Paystack payment integration, Redis caching, RabbitMQ background jobs, and full Docker setup</li>
 </ul>
 
-
+<p><a href="https://github.com/CookingApps/Chopie">Checkout Chopie's Readme</a></p> 
 
 </div>
 

@@ -8,9 +8,9 @@
 
 ## Meet the Chef
 
-<p>I build scalable systems and real-world products that solve problems and impact lives. Yeah, that’s basically it. It’s kind of cool, innit? That superpower of turning boring lines of jargon into something real — watching it come to life… and sometimes watching it almost break too lol. But yeah what doesnt kill a thing make it stronger rii?</p>
+<p>I build scalable systems and real-world products that solve problems and impact lives. Yeah, that’s basically it. It’s kind of cool, innit? That superpower of turning lines of jargon into something real — watching it come to life… and sometimes watching it **almost** break too lol. But yeah what doesnt kill a thing make it stronger rii?</p>
 
-<p>I have 5 years of experience doing this — building mobile apps, websites, APIs… pretty much anything that runs on code. </p>
+<p>I have 4 years of experience doing this — building mobile apps, websites, APIs… pretty much anything that runs on code. </p>
 
 <p>I high-key love drones and robots, so yeah, I’m diving into that space too.</p>
 
